@@ -1,0 +1,11 @@
+D:\sybca99\vbprojects\Calc\Calc\bin\Debug\Calc.exe.config
+D:\sybca99\vbprojects\Calc\Calc\bin\Debug\Calc.exe
+D:\sybca99\vbprojects\Calc\Calc\bin\Debug\Calc.pdb
+D:\sybca99\vbprojects\Calc\Calc\bin\Debug\Calc.xml
+D:\sybca99\vbprojects\Calc\Calc\obj\Debug\Calc.vbprojResolveAssemblyReference.cache
+D:\sybca99\vbprojects\Calc\Calc\obj\Debug\Calc.Form1.resources
+D:\sybca99\vbprojects\Calc\Calc\obj\Debug\Calc.Resources.resources
+D:\sybca99\vbprojects\Calc\Calc\obj\Debug\Calc.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\Calc\Calc\obj\Debug\Calc.exe
+D:\sybca99\vbprojects\Calc\Calc\obj\Debug\Calc.xml
+D:\sybca99\vbprojects\Calc\Calc\obj\Debug\Calc.pdb

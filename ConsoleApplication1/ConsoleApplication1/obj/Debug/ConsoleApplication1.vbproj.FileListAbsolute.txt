@@ -1,0 +1,10 @@
+D:\sybca99\vbprojects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\sybca99\vbprojects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\sybca99\vbprojects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\sybca99\vbprojects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+D:\sybca99\vbprojects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
+D:\sybca99\vbprojects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+D:\sybca99\vbprojects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\sybca99\vbprojects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+D:\sybca99\vbprojects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
