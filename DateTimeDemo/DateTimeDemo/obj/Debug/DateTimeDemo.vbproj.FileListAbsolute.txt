@@ -1,0 +1,11 @@
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe.config
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.xml
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.vbprojResolveAssemblyReference.cache
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.Form1.resources
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.Resources.resources
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.xml
+D:\sybca99\vbprojects\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
