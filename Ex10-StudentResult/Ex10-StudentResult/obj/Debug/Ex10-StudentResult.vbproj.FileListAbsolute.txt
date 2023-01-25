@@ -1,0 +1,12 @@
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\bin\Debug\Ex10-StudentResult.exe.config
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\bin\Debug\Ex10-StudentResult.exe
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\bin\Debug\Ex10-StudentResult.pdb
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\bin\Debug\Ex10-StudentResult.xml
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\obj\Debug\Ex10-StudentResult.vbprojResolveAssemblyReference.cache
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\obj\Debug\Ex10_StudentResult.Form1.resources
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\obj\Debug\Ex10_StudentResult.Resources.resources
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\obj\Debug\Ex10-StudentResult.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\obj\Debug\Ex10-StudentResult.exe
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\obj\Debug\Ex10-StudentResult.xml
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\obj\Debug\Ex10-StudentResult.pdb
+D:\sybca99\vbprojects\Ex10-StudentResult\Ex10-StudentResult\obj\Debug\Ex10_StudentResult.Form2.resources
