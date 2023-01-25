@@ -1,0 +1,9 @@
+C:\vbprojects\Ex03-DataTypeConversion\Ex03-DataTypeConversion\bin\Debug\Ex03-DataTypeConversion.exe.config
+C:\vbprojects\Ex03-DataTypeConversion\Ex03-DataTypeConversion\bin\Debug\Ex03-DataTypeConversion.exe
+C:\vbprojects\Ex03-DataTypeConversion\Ex03-DataTypeConversion\bin\Debug\Ex03-DataTypeConversion.pdb
+C:\vbprojects\Ex03-DataTypeConversion\Ex03-DataTypeConversion\bin\Debug\Ex03-DataTypeConversion.xml
+C:\vbprojects\Ex03-DataTypeConversion\Ex03-DataTypeConversion\obj\Debug\Ex03_DataTypeConversion.Resources.resources
+C:\vbprojects\Ex03-DataTypeConversion\Ex03-DataTypeConversion\obj\Debug\Ex03-DataTypeConversion.vbproj.GenerateResource.Cache
+C:\vbprojects\Ex03-DataTypeConversion\Ex03-DataTypeConversion\obj\Debug\Ex03-DataTypeConversion.exe
+C:\vbprojects\Ex03-DataTypeConversion\Ex03-DataTypeConversion\obj\Debug\Ex03-DataTypeConversion.xml
+C:\vbprojects\Ex03-DataTypeConversion\Ex03-DataTypeConversion\obj\Debug\Ex03-DataTypeConversion.pdb
