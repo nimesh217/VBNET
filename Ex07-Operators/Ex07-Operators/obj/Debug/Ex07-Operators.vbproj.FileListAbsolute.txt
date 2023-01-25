@@ -1,0 +1,11 @@
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\bin\Debug\Ex07-Operators.exe.config
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\bin\Debug\Ex07-Operators.exe
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\bin\Debug\Ex07-Operators.pdb
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\bin\Debug\Ex07-Operators.xml
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\obj\Debug\Ex07-Operators.vbprojResolveAssemblyReference.cache
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\obj\Debug\Ex07_Operators.Form1.resources
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\obj\Debug\Ex07_Operators.Resources.resources
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\obj\Debug\Ex07-Operators.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\obj\Debug\Ex07-Operators.exe
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\obj\Debug\Ex07-Operators.xml
+D:\sybca99\vbprojects\Ex07-Operators\Ex07-Operators\obj\Debug\Ex07-Operators.pdb

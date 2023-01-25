@@ -1,0 +1,12 @@
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\bin\Debug\EX07-CurrencyConverter.exe.config
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\bin\Debug\EX07-CurrencyConverter.exe
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\bin\Debug\EX07-CurrencyConverter.pdb
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\bin\Debug\EX07-CurrencyConverter.xml
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\obj\Debug\EX07_CurrencyConverter.Resources.resources
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\obj\Debug\EX07-CurrencyConverter.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\obj\Debug\EX07-CurrencyConverter.exe
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\obj\Debug\EX07-CurrencyConverter.xml
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\obj\Debug\EX07-CurrencyConverter.pdb
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\obj\Debug\EX07_CurrencyConverter.frmCurrencyConverter.resources
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\obj\Debug\EX07-CurrencyConverter.vbprojAssemblyReference.cache
+D:\sybca99\vbprojects\EX07-CurrencyConverter\EX07-CurrencyConverter\obj\Debug\EX07-CurrencyConverter.vbproj.CoreCompileInputs.cache
