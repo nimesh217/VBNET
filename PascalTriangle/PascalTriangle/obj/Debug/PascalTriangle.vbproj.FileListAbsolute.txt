@@ -1,0 +1,10 @@
+D:\sybca99\vbprojects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+D:\sybca99\vbprojects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe
+D:\sybca99\vbprojects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.pdb
+D:\sybca99\vbprojects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.xml
+D:\sybca99\vbprojects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.vbprojResolveAssemblyReference.cache
+D:\sybca99\vbprojects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.Resources.resources
+D:\sybca99\vbprojects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.exe
+D:\sybca99\vbprojects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.xml
+D:\sybca99\vbprojects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.pdb

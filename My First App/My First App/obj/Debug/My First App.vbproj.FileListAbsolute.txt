@@ -1,0 +1,10 @@
+C:\vbprojects\My First App\My First App\bin\Debug\My First App.exe.config
+C:\vbprojects\My First App\My First App\bin\Debug\My First App.exe
+C:\vbprojects\My First App\My First App\bin\Debug\My First App.pdb
+C:\vbprojects\My First App\My First App\bin\Debug\My First App.xml
+C:\vbprojects\My First App\My First App\obj\Debug\My First App.vbprojResolveAssemblyReference.cache
+C:\vbprojects\My First App\My First App\obj\Debug\My_First_App.Resources.resources
+C:\vbprojects\My First App\My First App\obj\Debug\My First App.vbproj.GenerateResource.Cache
+C:\vbprojects\My First App\My First App\obj\Debug\My First App.exe
+C:\vbprojects\My First App\My First App\obj\Debug\My First App.xml
+C:\vbprojects\My First App\My First App\obj\Debug\My First App.pdb
