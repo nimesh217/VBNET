@@ -1,0 +1,10 @@
+D:\sybca99\vbprojects\Pattern\Pattern\bin\Debug\Pattern.exe.config
+D:\sybca99\vbprojects\Pattern\Pattern\bin\Debug\Pattern.exe
+D:\sybca99\vbprojects\Pattern\Pattern\bin\Debug\Pattern.pdb
+D:\sybca99\vbprojects\Pattern\Pattern\bin\Debug\Pattern.xml
+D:\sybca99\vbprojects\Pattern\Pattern\obj\Debug\Pattern.vbprojResolveAssemblyReference.cache
+D:\sybca99\vbprojects\Pattern\Pattern\obj\Debug\Pattern.Resources.resources
+D:\sybca99\vbprojects\Pattern\Pattern\obj\Debug\Pattern.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\Pattern\Pattern\obj\Debug\Pattern.exe
+D:\sybca99\vbprojects\Pattern\Pattern\obj\Debug\Pattern.xml
+D:\sybca99\vbprojects\Pattern\Pattern\obj\Debug\Pattern.pdb
