@@ -1,0 +1,11 @@
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\bin\Debug\Ex1-FirstWindows.exe.config
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\bin\Debug\Ex1-FirstWindows.exe
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\bin\Debug\Ex1-FirstWindows.pdb
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\bin\Debug\Ex1-FirstWindows.xml
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\obj\Debug\Ex1-FirstWindows.vbprojResolveAssemblyReference.cache
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\obj\Debug\Ex1_FirstWindows.Form1.resources
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\obj\Debug\Ex1_FirstWindows.Resources.resources
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\obj\Debug\Ex1-FirstWindows.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\obj\Debug\Ex1-FirstWindows.exe
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\obj\Debug\Ex1-FirstWindows.xml
+D:\sybca99\vbprojects\Ex1-FirstWindows\Ex1-FirstWindows\obj\Debug\Ex1-FirstWindows.pdb
