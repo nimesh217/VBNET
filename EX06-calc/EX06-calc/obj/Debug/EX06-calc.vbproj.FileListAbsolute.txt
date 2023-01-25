@@ -1,0 +1,11 @@
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\bin\Debug\EX06-calc.exe.config
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\bin\Debug\EX06-calc.exe
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\bin\Debug\EX06-calc.pdb
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\bin\Debug\EX06-calc.xml
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\obj\Debug\EX06-calc.vbprojResolveAssemblyReference.cache
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\obj\Debug\EX06_calc.Form1.resources
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\obj\Debug\EX06_calc.Resources.resources
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\obj\Debug\EX06-calc.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\obj\Debug\EX06-calc.exe
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\obj\Debug\EX06-calc.xml
+D:\sybca99\vbprojects\EX06-calc\EX06-calc\obj\Debug\EX06-calc.pdb

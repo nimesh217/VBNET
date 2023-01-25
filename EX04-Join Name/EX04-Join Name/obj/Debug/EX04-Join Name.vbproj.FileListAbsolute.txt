@@ -1,0 +1,10 @@
+C:\vbprojects\EX04-Join Name\EX04-Join Name\bin\Debug\EX04-Join Name.exe.config
+C:\vbprojects\EX04-Join Name\EX04-Join Name\bin\Debug\EX04-Join Name.exe
+C:\vbprojects\EX04-Join Name\EX04-Join Name\bin\Debug\EX04-Join Name.pdb
+C:\vbprojects\EX04-Join Name\EX04-Join Name\bin\Debug\EX04-Join Name.xml
+C:\vbprojects\EX04-Join Name\EX04-Join Name\obj\Debug\EX04_Join_Name.Form1.resources
+C:\vbprojects\EX04-Join Name\EX04-Join Name\obj\Debug\EX04_Join_Name.Resources.resources
+C:\vbprojects\EX04-Join Name\EX04-Join Name\obj\Debug\EX04-Join Name.vbproj.GenerateResource.Cache
+C:\vbprojects\EX04-Join Name\EX04-Join Name\obj\Debug\EX04-Join Name.exe
+C:\vbprojects\EX04-Join Name\EX04-Join Name\obj\Debug\EX04-Join Name.xml
+C:\vbprojects\EX04-Join Name\EX04-Join Name\obj\Debug\EX04-Join Name.pdb

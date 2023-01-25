@@ -1,0 +1,11 @@
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\bin\Debug\Ex05-IfElseSelect.exe.config
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\bin\Debug\Ex05-IfElseSelect.exe
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\bin\Debug\Ex05-IfElseSelect.pdb
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\bin\Debug\Ex05-IfElseSelect.xml
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\obj\Debug\Ex05-IfElseSelect.vbprojResolveAssemblyReference.cache
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\obj\Debug\Ex05_IfElseSelect.Form1.resources
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\obj\Debug\Ex05_IfElseSelect.Resources.resources
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\obj\Debug\Ex05-IfElseSelect.vbproj.GenerateResource.Cache
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\obj\Debug\Ex05-IfElseSelect.exe
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\obj\Debug\Ex05-IfElseSelect.xml
+D:\sybca99\vbprojects\Ex05-IfElseSelect\Ex05-IfElseSelect\obj\Debug\Ex05-IfElseSelect.pdb
