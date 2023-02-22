@@ -1,0 +1,14 @@
+D:\sybca99\vbprojects\oops5\oops5\bin\Debug\oops5.exe.config
+D:\sybca99\vbprojects\oops5\oops5\bin\Debug\oops5.exe
+D:\sybca99\vbprojects\oops5\oops5\bin\Debug\oops5.pdb
+D:\sybca99\vbprojects\oops5\oops5\bin\Debug\oops5.xml
+D:\sybca99\vbprojects\oops5\oops5\bin\Debug\ClassLibrary1.dll
+D:\sybca99\vbprojects\oops5\oops5\bin\Debug\ClassLibrary1.pdb
+D:\sybca99\vbprojects\oops5\oops5\bin\Debug\ClassLibrary1.xml
+D:\sybca99\vbprojects\oops5\oops5\obj\Debug\oops5.Resources.resources
+D:\sybca99\vbprojects\oops5\oops5\obj\Debug\oops5.vbproj.GenerateResource.cache
+D:\sybca99\vbprojects\oops5\oops5\obj\Debug\oops5.vbproj.CoreCompileInputs.cache
+D:\sybca99\vbprojects\oops5\oops5\obj\Debug\oops5.vbproj.CopyComplete
+D:\sybca99\vbprojects\oops5\oops5\obj\Debug\oops5.exe
+D:\sybca99\vbprojects\oops5\oops5\obj\Debug\oops5.xml
+D:\sybca99\vbprojects\oops5\oops5\obj\Debug\oops5.pdb

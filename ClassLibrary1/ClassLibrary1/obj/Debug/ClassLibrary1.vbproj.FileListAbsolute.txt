@@ -1,0 +1,10 @@
+D:\sybca99\vbprojects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\sybca99\vbprojects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\sybca99\vbprojects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+D:\sybca99\vbprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.vbprojAssemblyReference.cache
+D:\sybca99\vbprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+D:\sybca99\vbprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.GenerateResource.cache
+D:\sybca99\vbprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.CoreCompileInputs.cache
+D:\sybca99\vbprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\sybca99\vbprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+D:\sybca99\vbprojects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
