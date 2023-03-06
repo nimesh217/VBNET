@@ -1,0 +1,12 @@
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\bin\Debug\ImageListDemo.exe.config
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\bin\Debug\ImageListDemo.exe
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\bin\Debug\ImageListDemo.pdb
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\bin\Debug\ImageListDemo.xml
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\obj\Debug\ImageListDemo.vbprojAssemblyReference.cache
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\obj\Debug\ImageListDemo.Form1.resources
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\obj\Debug\ImageListDemo.Resources.resources
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\obj\Debug\ImageListDemo.vbproj.GenerateResource.cache
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\obj\Debug\ImageListDemo.vbproj.CoreCompileInputs.cache
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\obj\Debug\ImageListDemo.exe
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\obj\Debug\ImageListDemo.xml
+D:\sybca99\vbprojects\ImageListDemo\ImageListDemo\obj\Debug\ImageListDemo.pdb
