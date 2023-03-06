@@ -1,0 +1,11 @@
+D:\sybca99\vbprojects\oops6\oops6\bin\Debug\oops6.exe.config
+D:\sybca99\vbprojects\oops6\oops6\bin\Debug\oops6.exe
+D:\sybca99\vbprojects\oops6\oops6\bin\Debug\oops6.pdb
+D:\sybca99\vbprojects\oops6\oops6\bin\Debug\oops6.xml
+D:\sybca99\vbprojects\oops6\oops6\obj\Debug\oops6.vbprojAssemblyReference.cache
+D:\sybca99\vbprojects\oops6\oops6\obj\Debug\oops6.Resources.resources
+D:\sybca99\vbprojects\oops6\oops6\obj\Debug\oops6.vbproj.GenerateResource.cache
+D:\sybca99\vbprojects\oops6\oops6\obj\Debug\oops6.vbproj.CoreCompileInputs.cache
+D:\sybca99\vbprojects\oops6\oops6\obj\Debug\oops6.exe
+D:\sybca99\vbprojects\oops6\oops6\obj\Debug\oops6.xml
+D:\sybca99\vbprojects\oops6\oops6\obj\Debug\oops6.pdb
